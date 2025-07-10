@@ -71,7 +71,7 @@ contract MockUSDT is TRC20 {
 
   <!-- First row: 1 image centered -->
 <p align="center">
-  <img src="https://yourdomain.com/path/to/image1.png](https://www.kryptoken.org/wp-content/uploads/2025/07/Screenshot-from-2025-07-10-14-52-21.png" alt="Flash Coin Sender" width="600"/>
+  <img src="https://www.kryptoken.org/wp-content/uploads/2025/07/Screenshot-from-2025-07-10-14-52-21.png" alt="Flash Coin Sender" width="600"/>
 </p>
 
 <!-- Second row: 2 images side by side -->
