@@ -97,6 +97,7 @@ Kryptoken Technology Inc.
 📍 Makati Executive Tower 3, Pio del Pilar, Makati City, PH  
 📧 team@kryptoken.org  
 📞 +63 969 104 7538 | +63 995 562 2499
-Project Partner:
-👥 PT Giga Internusa Persada 🇮🇩
+
+## 👥 Project Partner
+PT Giga Internusa Persada 🇮🇩
 # FlashUSDT
