@@ -65,10 +65,20 @@ contract MockUSDT is TRC20 {
 ```
 
 ## 📁 Backups and Forked Flashers
-- Includes forks from open-source crypto flasher tools:
-  - Ethereum-based flashers (adjusted for Tron)
-  - BSC token duplicators (for reference)
+- Includes APK and forks from open-source crypto flasher tools
+- Supports different blockchain networks (Ethereum, Binance, Tron)
 - Refactored with compliance and logs for internal use
+
+  <!-- First row: 1 image centered -->
+<p align="center">
+  <img src="https://yourdomain.com/path/to/image1.png](https://www.kryptoken.org/wp-content/uploads/2025/07/Screenshot-from-2025-07-10-14-52-21.png" alt="Flash Coin Sender" width="600"/>
+</p>
+
+<!-- Second row: 2 images side by side -->
+<p align="center">
+  <img src="https://www.kryptoken.org/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-14.58.04.jpeg" alt="Flash USDT Sender1" width="300"/>
+  <img src="https://www.kryptoken.org/wp-content/uploads/2025/07/WhatsApp-Image-2025-07-10-at-14.58.041.jpeg" alt="Flash USDT Sender2" width="300"/>
+</p>
 
 ## 📜 Disclaimer
 This tool:
