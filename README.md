@@ -93,7 +93,7 @@ This repository and all its components are developed and deployed with the stric
 
 ## 📬 Contact
 Kristoffer Narag | Myrel De Castro
-Kryptoken Technology Inc.  
+🏛️ Kryptoken Technology Inc.  
 📍 Makati Executive Tower 3, Pio del Pilar, Makati City, PH  
 📧 team@kryptoken.org  
 📞 +63 969 104 7538 | +63 995 562 2499
